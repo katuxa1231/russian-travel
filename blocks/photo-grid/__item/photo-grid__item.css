@@ -1,0 +1,6 @@
+﻿.photo-grid__item {
+  object-fit: cover;
+  width: 100%;
+  justify-self: center;
+}
+

@@ -1,0 +1,12 @@
+@media screen and (max-width: 767px) {
+  .intro__content {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__content {
+    width: 690px;
+  }
+}

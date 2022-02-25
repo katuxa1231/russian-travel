@@ -1,0 +1,13 @@
+﻿.place__image {
+  margin-left: -16px;
+  margin-bottom: 32px;
+  grid-area: image;
+  width: calc(100% + 32px);
+}
+
+@media screen and (min-width: 768px) {
+  .place__image {
+    margin: 0;
+    width: 100%;
+  }
+}
