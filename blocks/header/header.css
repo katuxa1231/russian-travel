@@ -20,6 +20,7 @@
 
 @media screen and (min-width: 1280px) {
   .header {
-    margin-bottom: 56px;
+    margin: 28px auto 56px;
+    max-width: 1184px;
   }
 }

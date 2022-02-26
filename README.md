@@ -10,6 +10,7 @@
 HTML, CSS, выравнивания и построения сетки, адаптив.
 
 **Ссылка на GitHub Pages**
+
 https://katuxa1231.github.io/russian-travel/
 
 
